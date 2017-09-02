@@ -1,6 +1,6 @@
 Name:           btrfsmaintenance
 Version:        0.3.1
-Release:        2%{?dist}
+Release:        1%{?dist}
 Summary:        Scripts for btrfs periodic maintenance tasks
 License:        GPL-2.0
 Group:          System/Base
